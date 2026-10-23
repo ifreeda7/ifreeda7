@@ -2,7 +2,7 @@
 
 **데이터 플랫폼 · 웹/앱 서비스 개발 리더 | 데이터 수집·ETL · Django API · React/Next.js · PM/PL**
 
-[프로젝트 포트폴리오 보기 ↗](https://ifreeda7.github.io/#work) · [사진이 포함된 웹 이력서](https://ifreeda7.github.io/resume.html) · [PDF 이력서](https://ifreeda7.github.io/resume.pdf)
+[프로젝트 포트폴리오 보기 ↗](https://ifreeda7.github.io/#work) · [경력기술서](https://ifreeda7.github.io/career_history.html) · [사진이 포함된 웹 이력서](https://ifreeda7.github.io/resume.html) · [PDF 이력서](https://ifreeda7.github.io/resume.pdf)
 
 엔씨소프트 데이터플랫폼 조직에서 15년 1개월간 데이터 수집·DW/DM·ETL과 웹 서비스를 직접 개발·운영했습니다. Django API와 React·Next.js 화면을 연결해 SBoard 경영 정보 포털의 두 차례 대규모 개편을 주도했습니다. MONKEY(장애 모니터링 자동화 플랫폼)의 PM·PL과 NOW의 PL로 문제 정의, 요구사항 조율, 개발 리딩과 운영 개선을 수행했고, SBoard(경영 정보 포털)의 2회 대규모 개편을 주도했습니다. 해외 3개 지사 플랫폼 구축 참여와 Hive·SQL 사내 교육 경험을 보유하고 있습니다. 육군 장교 복무 경험을 바탕으로 책임과 협업을 중시하며, 기술을 직접 구현하면서 팀의 실행을 이끄는 리더 역할에 강점이 있습니다.
 
